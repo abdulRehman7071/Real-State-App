@@ -45,7 +45,8 @@ const SignIn = () => {
           source={icons.google}
           className='w-5 h-5'
           resizeMode='contain'
-          /> <Text className=' text-lg font-rubik-medium text-black-300 ml-2'>
+          /> 
+          <Text className=' text-lg font-rubik-medium text-black-300 ml-2'>
             Continue with Google
           </Text>
           </View>
