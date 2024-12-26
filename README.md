@@ -4,11 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Preview Images
 
-![Preview Image 1](Auth.png)
-![Preview Image 2](Home.png)
-![Preview Image 3](Details.png)
-![Preview Image 4](Search.png)
-![Preview Image 5](Splash.png)
+![Preview Image 1](Preview.png)
 
 ## Get started`
 
